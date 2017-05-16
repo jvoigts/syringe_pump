@@ -1,6 +1,7 @@
 ## high precision syringe pump for water delivery
 
-non tested
+~~non tested~~ seems to work well.
+There are a few design changes that i'd like to make before anyone makes more of these though (see issues)
 
 
 4x M3x80 screws
