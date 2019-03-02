@@ -4,6 +4,9 @@
 There are a few design changes that i'd like to make before anyone makes more of these though (see issues)
 
 
+See here for full BOM and cost breakdown:
+https://docs.google.com/spreadsheets/d/1p8Uq13_GBMGx1Kx_8hAe8gSoPPf26UI3N-rei8wSnB4/edit?usp=sharing
+
 4x M3x80 screws
 http://www.hexcrews.com/m3x80-socket-cap-screw.aspx
 
